@@ -1,7 +1,7 @@
 C++ Timeouts
 ============
 
-A portable, header-only C++11 timer component.
+A portable, header-only C++17 timer component.
 
 It manages a set of timeouts that, when expired, invoke a callback. It uses
 features of C++11 in order to avoid platform specific code.
